@@ -1,0 +1,9 @@
+section{ color: rgb(29, 49, 49);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: snow; height: 800 px; width: 500 px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(247, 243, 9); width: 100%; height: 70%;
+}
+
